@@ -3,6 +3,16 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+// var express = require('express');
+// var path = require('path');
+// var logger = require('morgan');
+// var cookieParser = require('cookie-parser');
+// var session = require('cookie-session');
+// var bodyParser = require('body-parser');
+// const knex = require('knex')(require('./knexfile.js')['development']);
+// app.use(logger('dev'));
+// app.use(express.static(path.join(__dirname, 'public')));
+
 
 ReactDOM.render(
   <React.StrictMode>
